@@ -1,0 +1,8 @@
+quantumbookstore\QuantumBookstoreFullTest.class
+quantumbookstore\ShippingService.class
+quantumbookstore\Book.class
+quantumbookstore\Inventory.class
+quantumbookstore\PaperBook.class
+quantumbookstore\MailService.class
+quantumbookstore\EBook.class
+quantumbookstore\ShowcaseBook.class
